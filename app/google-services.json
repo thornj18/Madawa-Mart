@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "539712502431",
+    "firebase_url": "https://pharmat-ba5eb.firebaseio.com",
+    "project_id": "pharmat-ba5eb",
+    "storage_bucket": "pharmat-ba5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539712502431:android:8c898f94d1bf646f",
+        "android_client_info": {
+          "package_name": "org.pharmart.madawamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539712502431-eqoo7dkc3kp945qhrc9pp5dkpuebi2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDY3ktRSIWZ4nHwQpc7qykrTCanjWx9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
